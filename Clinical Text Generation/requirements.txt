@@ -1,0 +1,7 @@
+torch
+numpy
+pandas
+matplotlib
+transformers
+sacremoses
+google-cloud-bigquery

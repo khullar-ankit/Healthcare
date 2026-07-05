@@ -1,0 +1,23 @@
+# Credentialed MIMIC-III data — must never be committed (PhysioNet DUA)
+*.csv
+mimic_discharge_notes.csv
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+*.swp
+
+# Large media (host elsewhere)
+*.mp4
